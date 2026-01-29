@@ -6,6 +6,7 @@ Update no.2 for testing
 Update no.3 for testing
 Update no.4 for testing
 Update no.5 for testing
+Update no.6 for testing
 
 Pull request no.1 from branch1 to master
 Pull request no.2 from branch2 to master
