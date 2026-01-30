@@ -10,6 +10,8 @@ Update no.6 for testing
 Deployment testing 1
 Deployment testing 2
 
+Update for PUSH EVENT
+
 Pull request no.1 from branch1 to master
 Pull request no.2 from branch2 to master
 Pull request no.3 from branch3 to master
