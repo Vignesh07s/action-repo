@@ -11,6 +11,7 @@ Deployment testing 1
 Deployment testing 2
 
 Update for PUSH EVENT
+Update for PULL request
 
 Pull request no.1 from branch1 to master
 Pull request no.2 from branch2 to master
